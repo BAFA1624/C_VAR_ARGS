@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ben/Documents/gitrepos/C_VAR_ARGS/release",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/ben/Documents/gitrepos/C_VAR_ARGS/includes -Wall -Wextra -pedantic -Werror -O3 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu17 -o CMakeFiles/main.dir/src/main.c.o -c /Users/ben/Documents/gitrepos/C_VAR_ARGS/src/main.c",
+  "file": "/Users/ben/Documents/gitrepos/C_VAR_ARGS/src/main.c"
+}
+]
